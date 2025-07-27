@@ -4,6 +4,9 @@
 ![Swing](https://img.shields.io/badge/GUI-Swing-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+> [!CAUTION]
+> Este Proyecto es un proyecto de fin de módulo.
+
 Un simulador de hacking en ambiente cyberpunk con múltiples minijuegos.
 
 ## Diagrama de Clases UML
